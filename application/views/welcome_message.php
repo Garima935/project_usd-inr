@@ -15,7 +15,7 @@
         
     <!--====== Slick CSS ======-->
     <link rel="stylesheet" href="../assets/css/slick.css">
-        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--====== Font Awesome CSS ======-->
     <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
         
