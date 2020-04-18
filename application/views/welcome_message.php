@@ -93,9 +93,9 @@
                             <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                 
                             </div> <!-- navbar collapse -->
-                             <div class="navbar-btn d-none d-sm-inline-block" style="float: right;">
+<!--                              <div class="navbar-btn d-none d-sm-inline-block" style="float: right;">
                                 <a class="main-btn" href="/Register">Register</a>
-                            </div>
+                            </div> -->
 
                         
                         </nav> <!-- navbar -->
