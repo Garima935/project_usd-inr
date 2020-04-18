@@ -46,7 +46,7 @@
         {
             .container
             {
-                margin-top:50px;
+                margin-top:50px !important;
     }
 </style>    
 </head>
@@ -105,7 +105,7 @@
         </div> <!-- navbar area -->
         
         <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url(assets/images/header-hero.jpg)">
-            <div class="container" style="margin-top: 100px;margin-bottom: 100px;">
+            <div class="container" style="margin-top: 200px;margin-bottom: 100px;">
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="header-hero-content">
