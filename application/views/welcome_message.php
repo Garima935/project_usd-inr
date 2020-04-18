@@ -210,12 +210,12 @@
 
     function getamountininr(usd)
     {
-        if(intRegex.test(usd) || floatRegex.test(usd)) {
+        
         var getval=usd*76.5017;
         var inr=getval.toFixed(4);
         $('usd').html(usd);
         $('inr').html(inr);
-        }
+        
 
     }
 </script>
