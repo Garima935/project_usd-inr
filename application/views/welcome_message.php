@@ -11,31 +11,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="<?= base_url();?>assets/images/Untitled-removebg-preview.png" type="image/png">
+    <link rel="shortcut icon" href="assets/images/Untitled-removebg-preview.png" type="image/png">
         
     <!--====== Slick CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
         
     <!--====== Font Awesome CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
         
     <!--====== Line Icons CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/LineIcons.css">
+    <link rel="stylesheet" href="assets/css/LineIcons.css">
         
     <!--====== Animate CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
         
     <!--====== Magnific Popup CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
         
     <!--====== Bootstrap CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     
     <!--====== Default CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/default.css">
+    <link rel="stylesheet" href="assets/css/default.css">
     
     <!--====== Style CSS ======-->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     
 <style>
     .header-hero {
