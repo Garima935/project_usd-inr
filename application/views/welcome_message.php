@@ -81,7 +81,7 @@
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="<?= base_url();?>">
-                                <img src="<?= base_url();?>assets/images/logo_transparent.png" alt="Logo" style="height: 60px;">
+                                <img src="assets/images/logo_transparent.png" alt="Logo" style="height: 60px;">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -102,7 +102,7 @@
             </div> <!-- container -->
         </div> <!-- navbar area -->
         
-        <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url(<?= base_url();?>assets/images/header-hero.jpg)">
+        <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url(assets/images/header-hero.jpg)">
             <div class="container" style="margin-top: 200px;margin-bottom: 50px;">
                 <div class="row">
                     <div class="col-lg-7">
@@ -121,7 +121,7 @@
             </div> <!-- container -->
             <div class="header-hero-image d-flex align-items-center wow fadeInRightBig" data-wow-duration="1s" data-wow-delay="1.1s">
                 <div class="image">
-                    <img src="<?= base_url();?>assets/images/hero-image.png" alt="Hero Image">
+                    <img src="assets/images/hero-image.png" alt="Hero Image">
                 </div>
             </div> <!-- header hero image -->
         </div> <!-- header hero -->
@@ -132,7 +132,7 @@
     
     <!--====== FOOTER PART START ======-->
     
-    <footer id="footer" class="footer-area bg_cover" style="background-image: url(<?= base_url();?>assets/images/footer-bg.jpg)">
+    <footer id="footer" class="footer-area bg_cover" style="background-image: url(assets/images/footer-bg.jpg)">
         <div class="container">
             <div class="footer-copyright text-center">
                 <p class="text">© 2020 Crafted by <a href="javascript:void(0)" rel="nofollow">USD-INR</a> All Rights Reserved.</p>
