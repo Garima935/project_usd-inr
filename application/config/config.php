@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://github.com/Garima935/project_usd-inr.git/';
+$config['base_url'] = '';
 
 /*
 |--------------------------------------------------------------------------
