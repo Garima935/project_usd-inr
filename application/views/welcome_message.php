@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
-                            <a class="navbar-brand" href="<?= base_url();?>">
+                            <a class="navbar-brand" href="https://usd-inr.herokuapp.com/">
                                 <img src="assets/images/logo_transparent.png" alt="Logo" style="height: 60px;">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -92,7 +92,7 @@
                                 
                             </div> <!-- navbar collapse -->
                              <div class="navbar-btn d-none d-sm-inline-block" style="float: right;">
-                                <a class="main-btn" href="<?= base_url();?>Register">Register</a>
+                                <a class="main-btn" href="Register">Register</a>
                             </div>
 
                         
