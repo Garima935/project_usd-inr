@@ -42,6 +42,12 @@
     height: auto;
 
 }
+    @media (max-width:480px)
+        {
+            .container
+            {
+                margin-top:50px;
+    }
 </style>    
 </head>
 
