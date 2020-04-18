@@ -83,11 +83,7 @@
                             <a class="navbar-brand" href="https://usd-inr.herokuapp.com/">
                                 <img src="assets/images/logo_transparent.png" alt="Logo" style="height: 60px;">
                             </a>
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="toggler-icon"></span>
-                                <span class="toggler-icon"></span>
-                                <span class="toggler-icon"></span>
-                            </button>
+                            
                             <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                 
                             </div> <!-- navbar collapse -->
