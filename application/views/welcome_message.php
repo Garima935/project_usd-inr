@@ -11,31 +11,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="../assets/images/Untitled-removebg-preview.png" type="image/png">
+    <link rel="shortcut icon" href="<?= base_url();?>assets/images/Untitled-removebg-preview.png" type="image/png">
         
     <!--====== Slick CSS ======-->
-    <link rel="stylesheet" href="../assets/css/slick.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/slick.css">
+        
     <!--====== Font Awesome CSS ======-->
-    <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/font-awesome.min.css">
         
     <!--====== Line Icons CSS ======-->
-    <link rel="stylesheet" href="../assets/css/LineIcons.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/LineIcons.css">
         
     <!--====== Animate CSS ======-->
-    <link rel="stylesheet" href="../assets/css/animate.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/animate.css">
         
     <!--====== Magnific Popup CSS ======-->
-    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/magnific-popup.css">
         
     <!--====== Bootstrap CSS ======-->
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.min.css">
     
     <!--====== Default CSS ======-->
-    <link rel="stylesheet" href="../assets/css/default.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/default.css">
     
     <!--====== Style CSS ======-->
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/style.css">
     
 <style>
     .header-hero {
@@ -80,8 +80,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
-                            <a class="navbar-brand" href="#">
-                                <img src="../assets/images/logo_transparent.png" alt="Logo" style="height: 60px;">
+                            <a class="navbar-brand" href="<?= base_url();?>">
+                                <img src="<?= base_url();?>assets/images/logo_transparent.png" alt="Logo" style="height: 60px;">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -102,7 +102,7 @@
             </div> <!-- container -->
         </div> <!-- navbar area -->
         
-        <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url(../assets/images/header-hero.jpg)">
+        <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url(<?= base_url();?>assets/images/header-hero.jpg)">
             <div class="container" style="margin-top: 200px;margin-bottom: 50px;">
                 <div class="row">
                     <div class="col-lg-7">
@@ -121,7 +121,7 @@
             </div> <!-- container -->
             <div class="header-hero-image d-flex align-items-center wow fadeInRightBig" data-wow-duration="1s" data-wow-delay="1.1s">
                 <div class="image">
-                    <img src="../assets/images/hero-image.png" alt="Hero Image">
+                    <img src="<?= base_url();?>assets/images/hero-image.png" alt="Hero Image">
                 </div>
             </div> <!-- header hero image -->
         </div> <!-- header hero -->
@@ -132,7 +132,7 @@
     
     <!--====== FOOTER PART START ======-->
     
-    <footer id="footer" class="footer-area bg_cover" style="background-image: url(../assets/images/footer-bg.jpg)">
+    <footer id="footer" class="footer-area bg_cover" style="background-image: url(<?= base_url();?>assets/images/footer-bg.jpg)">
         <div class="container">
             <div class="footer-copyright text-center">
                 <p class="text">© 2020 Crafted by <a href="javascript:void(0)" rel="nofollow">USD-INR</a> All Rights Reserved.</p>
@@ -152,47 +152,47 @@
 
 
     <!--====== Jquery js ======-->
-    <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="../assets/js/vendor/modernizr-3.7.1.min.js"></script>
+    <script src="<?= base_url();?>assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="<?= base_url();?>assets/js/vendor/modernizr-3.7.1.min.js"></script>
     
     <!--====== Bootstrap js ======-->
-    <script src="../assets/js/popper.min.js"></script>
-    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="<?= base_url();?>assets/js/popper.min.js"></script>
+    <script src="<?= base_url();?>assets/js/bootstrap.min.js"></script>
     
     <!--====== Slick js ======-->
-    <script src="../assets/js/slick.min.js"></script>
+    <script src="<?= base_url();?>assets/js/slick.min.js"></script>
     
     <!--====== Isotope js ======-->
-    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="../assets/js/isotope.pkgd.min.js"></script>
+    <script src="<?= base_url();?>assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="<?= base_url();?>assets/js/isotope.pkgd.min.js"></script>
     
     <!--====== Counter Up js ======-->
-    <script src="../assets/js/waypoints.min.js"></script>
-    <script src="../assets/js/jquery.counterup.min.js"></script>
+    <script src="<?= base_url();?>assets/js/waypoints.min.js"></script>
+    <script src="<?= base_url();?>assets/js/jquery.counterup.min.js"></script>
     
     <!--====== Circles js ======-->
-    <script src="../assets/js/circles.min.js"></script>
+    <script src="<?= base_url();?>assets/js/circles.min.js"></script>
     
     <!--====== Appear js ======-->
-    <script src="../assets/js/jquery.appear.min.js"></script>
+    <script src="<?= base_url();?>assets/js/jquery.appear.min.js"></script>
     
     <!--====== WOW js ======-->
-    <script src="../assets/js/wow.min.js"></script>
+    <script src="<?= base_url();?>assets/js/wow.min.js"></script>
     
     <!--====== Headroom js ======-->
-    <script src="../assets/js/headroom.min.js"></script>
+    <script src="<?= base_url();?>assets/js/headroom.min.js"></script>
     
     <!--====== Jquery Nav js ======-->
-    <script src="../assets/js/jquery.nav.js"></script>
+    <script src="<?= base_url();?>assets/js/jquery.nav.js"></script>
     
     <!--====== Scroll It js ======-->
-    <script src="../assets/js/scrollIt.min.js"></script>
+    <script src="<?= base_url();?>assets/js/scrollIt.min.js"></script>
     
     <!--====== Magnific Popup js ======-->
-    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="<?= base_url();?>assets/js/jquery.magnific-popup.min.js"></script>
     
     <!--====== Main js ======-->
-    <script src="../assets/js/main.js"></script>
+    <script src="<?= base_url();?>assets/js/main.js"></script>
     
 </body>
 
