@@ -11,31 +11,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/images/Untitled-removebg-preview.png" type="image/png">
+    <link rel="shortcut icon" href="assets/images/Untitled-removebg-preview.png" type="image/png">
         
     <!--====== Slick CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
         
     <!--====== Font Awesome CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
         
     <!--====== Line Icons CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/LineIcons.css">
+    <link rel="stylesheet" href="assets/css/LineIcons.css">
         
     <!--====== Animate CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
         
     <!--====== Magnific Popup CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
         
     <!--====== Bootstrap CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     
     <!--====== Default CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/default.css">
+    <link rel="stylesheet" href="assets/css/default.css">
     
     <!--====== Style CSS ======-->
-    <link rel="stylesheet" href="https://github.com/Garima935/project_usd-inr/blob/master/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     
 <style>
     .header-hero {
@@ -152,47 +152,47 @@
 
 
     <!--====== Jquery js ======-->
-    <script src="<?= base_url();?>assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="<?= base_url();?>assets/js/vendor/modernizr-3.7.1.min.js"></script>
+    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
     
     <!--====== Bootstrap js ======-->
-    <script src="<?= base_url();?>assets/js/popper.min.js"></script>
-    <script src="<?= base_url();?>assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
     
     <!--====== Slick js ======-->
-    <script src="<?= base_url();?>assets/js/slick.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
     
     <!--====== Isotope js ======-->
-    <script src="<?= base_url();?>assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="<?= base_url();?>assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
     
     <!--====== Counter Up js ======-->
-    <script src="<?= base_url();?>assets/js/waypoints.min.js"></script>
-    <script src="<?= base_url();?>assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
     
     <!--====== Circles js ======-->
-    <script src="<?= base_url();?>assets/js/circles.min.js"></script>
+    <script src="assets/js/circles.min.js"></script>
     
     <!--====== Appear js ======-->
-    <script src="<?= base_url();?>assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
     
     <!--====== WOW js ======-->
-    <script src="<?= base_url();?>assets/js/wow.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
     
     <!--====== Headroom js ======-->
-    <script src="<?= base_url();?>assets/js/headroom.min.js"></script>
+    <script src="assets/js/headroom.min.js"></script>
     
     <!--====== Jquery Nav js ======-->
-    <script src="<?= base_url();?>assets/js/jquery.nav.js"></script>
+    <script src="assets/js/jquery.nav.js"></script>
     
     <!--====== Scroll It js ======-->
-    <script src="<?= base_url();?>assets/js/scrollIt.min.js"></script>
+    <script src="assets/js/scrollIt.min.js"></script>
     
     <!--====== Magnific Popup js ======-->
-    <script src="<?= base_url();?>assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
     
     <!--====== Main js ======-->
-    <script src="<?= base_url();?>assets/js/main.js"></script>
+    <script src="assets/js/main.js"></script>
     
 </body>
 
